@@ -1,0 +1,1 @@
+//# sourceMappingURL=ICardFooterProps.js.map

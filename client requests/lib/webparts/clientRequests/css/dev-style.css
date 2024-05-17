@@ -1,0 +1,167 @@
+.errormessage {
+  color: Red !important;
+  margin-top: 3px;
+  font-size: 12px !important;
+}
+
+.defaultTaxCode {
+  font-size: 16px;
+  border-color: #ddd;
+  border-radius: 4px;
+  width: 225px !important;
+}
+
+.paymentTerms {
+  font-size: 16px;
+  border-color: #ddd;
+  border-radius: 4px;
+  width: 225px !important;
+}
+
+.defaultTaxCodelbl,
+.paymentTermslbl {
+  width: 225px !important;
+}
+
+.requestExistsErrorCls {
+  display: inline;
+}
+
+.erroricon {
+  color: Red;
+  margin-right: 5px;
+  margin-top: 9px;
+  float: left;
+}
+
+.card-primary .row:after,
+.card-primary .row:before,
+.card-footer .row:after,
+.card-footer .row:before {
+  content: none;
+}
+
+.btn-secondary span.cancle-link-btn {
+  color: #f77272 !important;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.card-footer .row::after,
+.card-footer .row::before {
+  content: none !important;
+}
+
+.card-header .row::after,
+.card-header .row::before {
+  content: none !important;
+}
+
+.grid-table .rdt_TableHeadRow {
+  background-color: #f6f6f6;
+}
+
+.grid-table .rdt_TableHeadRow .rdt_TableCol {
+  color: #323130;
+  font-size: 14px;
+  font-weight: 600;
+  min-height: 44px;
+}
+
+.grid-table .rdt_Ta.grid-table .rdt_TableRow .rdt_TableCell {
+  word-wrap: break-word;
+}
+
+.grid-table .rdt_TableHeadRow .rdt_TableCol>div>div {
+  white-space: nowrap;
+}
+
+.grid-table .table {
+  min-width: 0px;
+}
+
+
+.loading-css {
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  position: absolute;
+  padding: 0;
+}
+
+.table .rdt_Pagination {
+  left: 0em;
+  position: sticky;
+}
+
+.nodata {
+  Color: #666;
+  padding: 10px;
+}
+
+.nodatadiv {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #dee2e6;
+}
+
+/* datattable filter design */
+.data-table-extensions>.data-table-extensions-filter {
+  float: right;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+.data-table-extensions {
+  padding: .7rem 0 !important;
+
+}
+
+.data-table-extensions>.data-table-extensions-filter>.icon {
+  float: left;
+  width: 30px;
+  height: 38px;
+  background-image: url("../images/search.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.data-table-extensions>.data-table-extensions-filter>.filter-text {
+  height: 38px !important;
+  border-bottom: 0 !important;
+  border-width: 0;
+}
+
+.selectedClientList {
+  max-height: 150px;
+  overflow: auto;
+  list-style: decimal;
+  list-style-position: inside;
+}
+
+.custom-file .custom-file-label {
+  padding-right: 80px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+
+}
+
+.card-primary .card-body .form-info {
+  background-color: #f4f4f4;
+}
+
+.arabic-right-text {
+  float: right;
+}
