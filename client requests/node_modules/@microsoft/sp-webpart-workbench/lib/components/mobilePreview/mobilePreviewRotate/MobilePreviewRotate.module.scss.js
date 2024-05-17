@@ -1,5 +1,0 @@
-require("./MobilePreviewRotate.module.css");
-var styles = {
-    mobilePreviewRotateIcon: 'mobilePreviewRotateIcon_a53dac3b'
-};
-export default styles;

@@ -1,3 +1,0 @@
-require("./BrowserDeveloperToolsWarning.css");
-var styles = {};
-export default styles;

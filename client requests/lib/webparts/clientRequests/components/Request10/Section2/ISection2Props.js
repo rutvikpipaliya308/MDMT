@@ -1,1 +1,0 @@
-//# sourceMappingURL=ISection2Props.js.map
